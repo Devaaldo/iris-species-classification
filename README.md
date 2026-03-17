@@ -55,8 +55,8 @@ Output Layer (3 neurons, Softmax activation)
 
 | Metric | Value |
 |--------|-------|
-| Test Accuracy | 100.0% |
-| Test Loss | 0.0733 |
+| Test Accuracy | 97.78% |
+| Test Loss | 0.02658 |
 | Training Samples | 105 |
 | Testing Samples | 45 |
 
